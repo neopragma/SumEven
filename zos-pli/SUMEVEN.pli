@@ -1,0 +1,17 @@
+/* Sum even integers 0 to 100 and print with thousands separator */
+
+DECLARE sum FIXED BIN(31) INIT(0);
+DECLARE i FIXED BIN(31);
+DECLARE formatted CHAR(10);
+
+/* Sum even integers */
+DO i = 0 TO 100 BY 2;
+   sum = sum + i;
+END;
+
+/* Format number with commas */
+CALL PUT(SKIP('THE SUM OF EVEN INTEGERS FROM 0 TO 100 IS: ' || FORMAT(sum, 'Z,ZZZ,ZZ9')));
+
+
+/* End */
+END;

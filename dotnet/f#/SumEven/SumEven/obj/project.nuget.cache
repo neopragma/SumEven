@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBZiz4/hwH4=",
+  "success": true,
+  "projectFilePath": "/Users/davidnicolette/Documents/Projects/SumEven/dotnet/f#/SumEven/SumEven/SumEven.fsproj",
+  "expectedPackageFiles": [
+    "/Users/davidnicolette/.nuget/packages/fsharp.core/8.0.403/fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}

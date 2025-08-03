@@ -1,0 +1,14 @@
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/bin/Debug/net8.0/SumEven1
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/bin/Debug/net8.0/SumEven1.deps.json
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/bin/Debug/net8.0/SumEven1.runtimeconfig.json
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/bin/Debug/net8.0/SumEven1.dll
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/bin/Debug/net8.0/SumEven1.pdb
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/obj/Debug/net8.0/SumEven1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/obj/Debug/net8.0/SumEven1.AssemblyInfoInputs.cache
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/obj/Debug/net8.0/SumEven1.AssemblyInfo.cs
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/obj/Debug/net8.0/SumEven1.csproj.CoreCompileInputs.cache
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/obj/Debug/net8.0/SumEven1.dll
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/obj/Debug/net8.0/refint/SumEven1.dll
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/obj/Debug/net8.0/SumEven1.pdb
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/obj/Debug/net8.0/SumEven1.genruntimeconfig.cache
+/Users/davidnicolette/Documents/Projects/SumEven/c#/SumEven/SumEven1/obj/Debug/net8.0/ref/SumEven1.dll
